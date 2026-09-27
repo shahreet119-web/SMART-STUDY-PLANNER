@@ -84,7 +84,7 @@ https://code.visualstudio.com/
 Open the terminal and run:
 
 ```bash
-git clone https://github.com/your-username/smart-study-planner.git
+https://github.com/shahreet119-web/SMART-STUDY-PLANNER/tree/main
 ```
 
 Then open the project folder in VS Code.
