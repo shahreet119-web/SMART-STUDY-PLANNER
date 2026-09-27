@@ -1,5 +1,4 @@
 # SMART-STUDY-PLANNER
-A simple Python-based Smart Study Planner to manage study tasks, set priorities and deadlines, mark tasks as completed, and track overall study progress.
 
 ##  Project Overview
 
@@ -60,9 +59,6 @@ The main objective of the **Smart Study Planner** is to make study planning easi
 ### Development Tool
 - **Visual Studio Code (VS Code)**
 
-### Libraries
-- No external libraries are required.
-- 
 ## Installation and Setup
 
 ### 1. Install Python
@@ -109,16 +105,19 @@ When the program starts, the following menu is displayed:
 5. Show Study Progress
 6. Show High Priority Tasks
 7. Exit
-==========================================
+
 Enter your choice:
 
 ### Example: Adding a Task
 
 ========== ADD STUDY TASK ==========
 
-Enter subject: Python
-Enter topic/chapter: Functions
+Enter subject: maths
+
+Enter topic/chapter: double integration
+
 Enter priority (High/Medium/Low): High
+
 Enter deadline (DD/MM/YYYY): 30/09/2026
 
 Task added successfully!
@@ -130,23 +129,30 @@ Task added successfully!
 Task 1
 -------------------------
 Subject  : Python
+
 Topic    : Functions
-Priority : High
-Deadline : 30/09/2026
+
+Priority : medium
+
+Deadline : 30/10/2026
+
 Status   : Pending
 
 ### Example: Study Progress
 
 ========== STUDY PROGRESS ==========
 
-Total Tasks     : 3
-Completed Tasks : 2
+Total Tasks     : 2
+
+Completed Tasks : 1
+
 Pending Tasks   : 1
-Progress        : 66.67 %
 
-## Author
+Progress        : 50 %
 
-**Your Name**
+## VIT bhopal
+
+**REET SHAH**
 
 First Year Student  
 Python Project
