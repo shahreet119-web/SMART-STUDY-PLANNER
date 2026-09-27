@@ -89,8 +89,9 @@ Then open the project folder in VS Code.
 
 Open the terminal in VS Code and run:
 
+```bash
 python main.py
-
+```
 The Smart Study Planner will start in the terminal.
 
 ## Output
@@ -150,9 +151,8 @@ Pending Tasks   : 1
 
 Progress        : 50 %
 
-## VIT bhopal
+## Author
 
-**REET SHAH**
-
-First Year Student  
-Python Project
+Reet Shah\
+Project = Smart Study Planner\
+Language : Python
