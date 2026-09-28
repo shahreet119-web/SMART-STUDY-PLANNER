@@ -142,7 +142,15 @@ Status   : Pending
 ### Example: Study Progress
 Task 2
 -------------------------
-Subject : Maths
+Subject  :   Mathematics
+
+Topic    :   Double Integration
+
+Priority :   High
+
+Deadline :   11/9/2026
+
+Status   :   
 
 
 
