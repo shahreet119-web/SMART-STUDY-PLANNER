@@ -113,15 +113,15 @@ Enter your choice:
 
 ========== ADD STUDY TASK ==========
 
-Enter subject: maths
+Enter subject: ______
 
-Enter topic/chapter: double integration
+Enter topic/chapter: __________
 
-Enter priority (High/Medium/Low): High
+Enter priority (High/Medium/Low): ______
 
-Enter deadline (DD/MM/YYYY): 30/09/2026
+Enter deadline (DD/MM/YYYY): ________
 
-Task added successfully!
+show that the task is complete or not 
 
 ### Example: Viewing Tasks
 
@@ -140,6 +140,12 @@ Deadline : 30/10/2026
 Status   : Pending
 
 ### Example: Study Progress
+Task 2
+-------------------------
+Subject : Maths
+
+
+
 
 ========== STUDY PROGRESS ==========
 
