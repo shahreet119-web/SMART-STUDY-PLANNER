@@ -150,10 +150,7 @@ Priority :   High
 
 Deadline :   11/9/2026
 
-Status   :   
-
-
-
+Status   :   Completed 
 
 ========== STUDY PROGRESS ==========
 
